@@ -1,0 +1,111 @@
+body {
+    margin: 0 auto;
+    font-family: Georgia, Times, serif;
+    font-size: 1em;
+    line-height: 30px;
+    width: 720px;
+    background-color: #fff;
+    color: #222;
+}
+header, footer, section, article {
+    display: block;
+}
+#by {
+    font-style: italic;
+    margin-right: 5px;
+    font-size: 28px;
+}
+#caption {
+    position: absolute;
+    font-size: 24px;
+    margin: -135px 0 0 70px;
+}
+#path {
+    color: #b53131;
+}
+time {
+    font-style: italic;
+    float: right;
+}
+a {
+    color: #b83000;
+}
+h1 a {
+    color: #222;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+body > header {
+    line-height: 40px;
+    margin-bottom: 20px;
+    border-bottom: 1px dotted #000;
+}
+body > header > h1 {
+    float: left;
+    font-size: 2.5em;
+    font-weight: normal;
+}
+body > header > h1 > a:hover {
+    text-decoration: none;
+}
+nav > ul {
+    text-align: right;
+}
+nav > ul > li {
+    display: inline;
+    padding-left: 10px;
+}
+body > footer {
+    font-style: italic;
+    font-size: .9em;
+    color: #888;
+    border-top: 1px dotted #000;
+    margin: 20px 0 20px 0;
+    padding: 10px 0 20px 0;
+}
+.footer-contact {
+    float: left;
+}
+.post header {
+    margin-bottom: 10px;
+}
+.post header h1 {
+  font-size: 24px;
+}
+.post header h1.list {
+  font-size: 19px;
+}
+.post .body p:first-child {
+    margin-top: 0;
+}
+.post .body p:last-child {
+    margin-bottom: 0;
+}
+.post {
+    margin-bottom: 30px;
+}
+.post:last-child {
+    margin-bottom: 10px;
+}
+.post p {
+    margin: 10px 0;
+}
+h1, h2, h3, h4 {
+    display: inline;
+    margin: 0;
+    font-weight: 100;
+}
+ul, li {
+    list-style-type: none;
+}
+code {
+    font-family: 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
+}
+pre {
+    padding: 20px;
+}
+blockquote {
+    font-style: italic;
+}

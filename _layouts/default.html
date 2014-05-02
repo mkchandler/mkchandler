@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ page.title }}</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="author" content="Matt Chandler">
+  <meta name="copyright" content="Matt Chandler">
+  <meta name="description" content="Writings and more from Matt Chandler, a programmer from Oklahoma City">
+  <link rel="alternate" type="application/atom+xml" title="{{ page.title }}" href="http://feeds.feedburner.com/mkchandler/">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/">mkchandler.com</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/about/">about</a></li>
+        <li><a href="http://feeds.feedburner.com/mkchandler/">rss</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    {{ content }}
+  </section>
+  <footer>
+    <span class="footer-contact">
+      <a href="https://twitter.com/mkchandler/">twitter</a> / <a href="https://github.com/mkchandler/">github</a>
+    </span>
+  </footer>
+</body>
+</html>
