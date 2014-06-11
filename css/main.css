@@ -92,13 +92,23 @@ body > footer {
 .post p {
     margin: 10px 0;
 }
+.post blockquote {
+    background: #eee;
+    border-left: 5px solid #ddd;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.post blockquote > p:first-of-type {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 h1, h2, h3, h4 {
     display: inline;
     margin: 0;
     font-weight: 100;
 }
 ul, li {
-    list-style-type: none;
+    
 }
 code {
     font-family: 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
