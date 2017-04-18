@@ -7,7 +7,7 @@
   <meta name="author" content="Matt Chandler">
   <meta name="copyright" content="Matt Chandler">
   <meta name="description" content="Writings and more from Matt Chandler, a programmer from Oklahoma City">
-  <link rel="alternate" type="application/atom+xml" title="{{ page.title }}" href="http://feeds.feedburner.com/mkchandler/">
+  <link rel="alternate" type="application/atom+xml" title="{{ page.title }}" href="{{ site.url }}/feed.xml">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/css/main.css">
   <script>
@@ -15,7 +15,6 @@
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
     ga('create', 'UA-2747598-2', 'mkchandler.com');
     ga('send', 'pageview');
   </script>
@@ -25,7 +24,7 @@
     <h1><a href="/">mkchandler.com</a></h1>
     <nav>
       <ul>
-        <li><a href="http://feeds.feedburner.com/mkchandler/">rss</a></li>
+        <li><a href="{{ site.url }}/feed.xml">rss</a></li>
       </ul>
     </nav>
   </header>
