@@ -8,5 +8,6 @@ markdown: kramdown
 gems:
   - jekyll-feed
 exclude:
+  - buildspec.yml
   - Gemfile
   - Gemfile.lock
