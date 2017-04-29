@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Elixir Basics: Looping and Recursion"
-date:   2017-04-26
+title: "Elixir Basics: Looping and Recursion"
+date: 2017-04-26
+visible: 1
 ---
 
 When I first started learning Elixir a couple years ago, recursion was not something I was using on a day-to-day basis. But the functional nature of Elixir forced me to learn the concepts and I thought I would share some of my findings.

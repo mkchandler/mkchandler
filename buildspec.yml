@@ -6,5 +6,5 @@ phases:
       - bundle install
   build:
     commands:
-      - bundle exec jekyll build
+      - JEKYLL_ENV=production bundle exec jekyll build
       - aws s3 sync _site/ s3://mkchandler-com
