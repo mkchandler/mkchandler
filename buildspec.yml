@@ -3,10 +3,8 @@ version: 0.1
 phases:
   install:
     commands:
-      - gem install github-pages
+      - bundle install
   build:
     commands:
-      - echo "******** Building Jekyll site ********"
-      - jekyll build
-      - echo "******** Uploading to S3 ********"
+      - bundle exec jekyll build
       - aws s3 sync _site/ s3://mkchandler-com
