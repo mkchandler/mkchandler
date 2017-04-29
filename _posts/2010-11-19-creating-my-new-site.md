@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Creating My New Site"
-date:   2010-11-19
+title: "Creating My New Site"
+date: 2010-11-19
+visible: 0
 ---
 
 A couple months back I set out to create a new web site for myself.  All I really wanted was a place to post my writings about programming and other interests, as well as somewhere that connects all of the online communities I'm involved in.  I went through a few iterations of prototypes before I finally decided to build it using [Ruby][ruby].  I'm very new to Ruby, and thought that building my personal site would be a great way to jump in to the language.

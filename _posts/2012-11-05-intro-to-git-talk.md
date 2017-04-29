@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Intro to Git Talk"
-date:   2012-11-05
+title: "Intro to Git Talk"
+date: 2012-11-05
+visible: 1
 ---
 
 This month I had the privilege of speaking at the [Oklahoma City Developers Group][okcdg] about Git. I thought the reception was great and I am glad that more developers are learning Git. There was not a recording made, but below are the slides from my talk.
