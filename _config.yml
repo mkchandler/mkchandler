@@ -1,4 +1,4 @@
-#Site settings
+# Site settings
 name: mkchandler.com
 url: https://mkchandler.com
 permalink: /:title/
