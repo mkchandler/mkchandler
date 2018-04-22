@@ -55,7 +55,7 @@ my next outdoor shoot.
 ## Equipment
 
 - Camera: Pentax K1000
-- Lens: Pentax 50mm
+- Lens: SMC Pentax-M 1:2 50mm
 - Film: Fujicolor Pro 400H
 - Processing/Scanning: [PhotoVision](http://photovisionprints.com/)
 - Editing: Adobe Lightroom
