@@ -8,5 +8,5 @@ phases:
     commands:
       - JEKYLL_ENV=production bundle exec jekyll build
       - aws s3 sync _site/ $S3_BUCKET_NAME
-      - aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths "index.html feed.xml"  
+      - aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html /feed.xml  
 
