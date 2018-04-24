@@ -6,7 +6,7 @@ category: photography
 visible: 1
 ---
 
-Hidden away in plain sight about 2 hours northwest of Oklahoma City, Gloss Mountain State Park is a welcome change to the fields and farms you drive past to get there. It's hard to believe you are still in Oklahoma when you get close because the Glass Mountain range is a beautiful collection of mesas in the middle of the plains.
+Hidden away in plain sight about 2 hours northwest of Oklahoma City, Gloss Mountain State Park is a welcome change to the fields and farms you drive past to get there. It's hard to believe you are still in Oklahoma when you get close because the mountain range is a beautiful collection of mesas in the middle of the plains.
 
 ![Lone Peak Mountain]({{ "/images/35mm-film-gloss-mountain/lone-peak-mountain.jpg" | absolute_url }})
 
@@ -20,7 +20,7 @@ walk around the top and take in the amazing views.
 ![View of the plains from the top of Cathedral Mountain]({{ "/images/35mm-film-gloss-mountain/mesa.jpg" | absolute_url }})
 
 If you pay attention, some of the wildlife will follow you. Not sure on the
-type, I'm guessing they were some type of hawk though.
+type; I'm guessing they were some type of hawk though.
 
 ![A bird flying overhead]({{ "/images/35mm-film-gloss-mountain/bird-sky.jpg" | absolute_url }})
 
@@ -55,7 +55,7 @@ my next outdoor shoot.
 ## Equipment
 
 - Camera: Pentax K1000
-- Lens: Pentax 50mm
+- Lens: SMC Pentax-M 1:2 50mm
 - Film: Fujicolor Pro 400H
 - Processing/Scanning: [PhotoVision](http://photovisionprints.com/)
 - Editing: Adobe Lightroom

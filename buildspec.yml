@@ -1,4 +1,4 @@
-version: 0.1
+version: 0.2
    
 phases:
   install:
@@ -7,4 +7,6 @@ phases:
   build:
     commands:
       - JEKYLL_ENV=production bundle exec jekyll build
-      - aws s3 sync _site/ s3://mkchandler-com
+      - aws s3 sync _site/ $S3_BUCKET_NAME
+      - aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html /feed.xml  
+
