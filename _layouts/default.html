@@ -9,12 +9,12 @@
   <meta name="description" content="Writings and more from Matt Chandler, a full stack developer">
   <link rel="alternate" type="application/atom+xml" title="{{ page.title }}" href="{{ site.url }}/feed.xml">
   <title>{{ page.title }}</title>
-  {% css app %}
-  <script src="/analytics.js"></script>
+  {% asset app.css %}
+  {% asset analytics.js %}
 </head>
 <body>
   <header>
-    <h1><a href="/">mkchandler.com</a></h1>
+    <h1><a href="/">Matt Chandler</a></h1>
     <nav>
       <ul>
         <li><a href="{{ site.url }}/feed.xml">rss</a></li>
