@@ -2,7 +2,7 @@
 layout: post
 title: "Elixir Basics: Looping and Recursion"
 date: 2017-04-26
-category: photography
+category: programming
 visible: 1
 ---
 

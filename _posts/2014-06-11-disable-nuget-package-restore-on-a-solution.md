@@ -2,7 +2,7 @@
 layout: post
 title: "Disable NuGet Package Restore on a Solution"
 date: 2014-06-11
-category: photography
+category: programming
 visible: 1
 ---
 

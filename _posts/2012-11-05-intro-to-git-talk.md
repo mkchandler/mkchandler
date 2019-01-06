@@ -2,7 +2,7 @@
 layout: post
 title: "Intro to Git Talk"
 date: 2012-11-05
-category: photography
+category: programming
 visible: 1
 ---
 
