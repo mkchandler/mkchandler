@@ -2,6 +2,7 @@
 layout: post
 title: "Intro to Git Talk"
 date: 2012-11-05
+category: photography
 visible: 1
 ---
 
@@ -9,22 +10,21 @@ This month I had the privilege of speaking at the [Oklahoma City Developers Grou
 
 Slides
 ------
-<script async class="speakerdeck-embed" data-id="5097ea6720a00100020063ce" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="5097ea6720a00100020063ce" data-ratio="1.3333333333333333" src="https://speakerdeck.com/assets/embed.js"></script>
 
 Design
 ------
 
-- Colors: [Kuler Theme][kuler]
-- Typeface: [Open Sans][opensans], [Droid Sans Mono][droidsansmono]
+- Colors: [Adobe Color Theme][adobecolor]
+- Typeface: [Open Sans][opensans], Droid Sans Mono
 - Software: [Keynote][keynote]
 
 Additional Resources
 --------------------
-- [Great talk by Scott Chacon about Git][scottchacon]
+- [Introduction to Git with Scott Chacon of GitHub][scottchacon]
 
-[okcdg]: http://www.okcdg.org
-[kuler]: https://kuler.adobe.com/#themeID/2135384
-[opensans]: http://www.google.com/webfonts/specimen/Open+Sans
-[droidsansmono]: http://www.google.com/webfonts/specimen/Droid+Sans+Mono
-[keynote]: http://www.apple.com/iwork/keynote
-[scottchacon]: http://www.youtube.com/watch?v=ZDR433b0HJY
+[okcdg]: https://web.archive.org/web/20130301131832/http://www.okcdg.org:80/
+[adobecolor]: https://color.adobe.com/Intro-to-Git-Talk-color-theme-2135384/
+[opensans]: https://fonts.google.com/specimen/Open+Sans
+[keynote]: https://www.apple.com/keynote
+[scottchacon]: https://www.youtube.com/watch?v=ZDR433b0HJY

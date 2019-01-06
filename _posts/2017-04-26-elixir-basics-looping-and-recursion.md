@@ -2,6 +2,7 @@
 layout: post
 title: "Elixir Basics: Looping and Recursion"
 date: 2017-04-26
+category: photography
 visible: 1
 ---
 
@@ -30,7 +31,7 @@ Now how would we accomplish something similar in Elixir? The first thing you wil
 
 ## Elixir Example
 
-If you've read through the [Elixir guides](http://elixir-lang.org/getting-started/introduction.html), you'll find that [recursion](http://elixir-lang.org/getting-started/recursion.html) is the way to solve this in Elixir.
+If you've read through the [Elixir guides](https://elixir-lang.org/getting-started/introduction.html), you'll find that [recursion](https://elixir-lang.org/getting-started/recursion.html) is the way to solve this in Elixir.
 
 So lets start with a basic [`List`](https://hexdocs.pm/elixir/List.html) in Elixir:
 
@@ -102,7 +103,7 @@ At this point we end up with `4` being returned as the min value from our origin
 
 ## Tail Call Optimization
 
-Erlang includes a nifty optimization for tail recursion that will help us with large lists. As explained in the [excellent post by Phillip Brown about Tail Call Optimization](http://culttt.com/2016/06/06/understanding-recursion-tail-call-optimisation-elixir/):
+Erlang includes a nifty optimization for tail recursion that will help us with large lists. As explained in the [excellent post by Phillip Brown about Tail Call Optimization](https://www.culttt.com/2016/06/06/understanding-recursion-tail-call-optimisation-elixir/):
 
 > Tall Call Optimisation is where if the last thing a function does is call another function, the compiler can jump to the other function and then back again without allocating any additional memory.
 
