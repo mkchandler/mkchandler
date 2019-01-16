@@ -2,6 +2,7 @@
 layout: post
 title: "Disable NuGet Package Restore on a Solution"
 date: 2014-06-11
+category: programming
 visible: 1
 ---
 
@@ -34,5 +35,5 @@ Now you have a clean solution file and can restore packages the proper way. If y
 ## Resources
 
 * The PowerShell script above is provided as a [Gist](https://gist.github.com/mkchandler/8864804)
-* [NuGet Docs Restore Command Reference](http://docs.nuget.org/docs/reference/package-restore)
-* The NuGet team's guide on [migrating to automatic package restore](http://docs.nuget.org/docs/workflows/migrating-to-automatic-package-restore)
+* [NuGet Docs Restore Command Reference](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore)
+* The NuGet team's guide on [migrating to automatic package restore](https://web.archive.org/web/20140705140836/http://docs.nuget.org/docs/workflows/migrating-to-automatic-package-restore)

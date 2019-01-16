@@ -6,23 +6,23 @@ My official web site containing my blog, with more content coming soon.
 
 I've tested building and running this site with the following:
 
-- [Ruby v2.3.0+](https://www.ruby-lang.org)
+- [Ruby v2.3.1](https://www.ruby-lang.org)
 
 ## Usage
 
 To build the site locally:
 
-    $ bundle install
-    $ bundle exec jekyll build
+    bundle install
+    bundle exec jekyll build
 
 If you would like to start the local development server, which will also watch
 for changes:
 
-    $ bundle exec jekyll serve
+    bundle exec jekyll serve
 
 Build and run in production mode (bundles/minifies assets):
 
-    $ JEKYLL_ENV=production bundle exec jekyll serve
+    JEKYLL_ENV=production bundle exec jekyll serve
 
 ## Deployment
 
