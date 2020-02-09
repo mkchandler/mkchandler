@@ -1,7 +1,9 @@
-version: 0.2
+version: 0.3
    
 phases:
   install:
+    runtime-versions:
+      ruby: 2.6
     commands:
       - bundle install
   build:
