@@ -3,7 +3,6 @@ layout: post
 title: "35mm Film: Gloss Mountain"
 date: 2018-04-21
 category: photography
-visible: 1
 ---
 
 Hidden away in plain sight about 2 hours northwest of Oklahoma City, Gloss Mountain State Park is a welcome change to the fields and farms you drive past to get there. It's hard to believe you are still in Oklahoma when you get close because the mountain range is a beautiful collection of mesas in the middle of the plains.

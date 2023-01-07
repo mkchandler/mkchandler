@@ -6,7 +6,7 @@ My official web site containing my blog, with more content coming soon.
 
 I've tested building and running this site with the following:
 
-- [Ruby v2.3.1](https://www.ruby-lang.org)
+- [Ruby v3.1.3](https://www.ruby-lang.org)
 
 ## Usage
 

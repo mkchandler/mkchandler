@@ -1,9 +1,6 @@
-# Site settings
 name: mkchandler.com
 url: https://mkchandler.com
 permalink: /:title/
-
-# Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -13,3 +10,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+sass:
+  style: compressed

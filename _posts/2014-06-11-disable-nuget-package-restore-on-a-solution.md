@@ -3,7 +3,6 @@ layout: post
 title: "Disable NuGet Package Restore on a Solution"
 date: 2014-06-11
 category: programming
-visible: 1
 ---
 
 Not too long ago David Ebbo [tweeted](https://twitter.com/davidebbo/status/425493392475168768) the following:
