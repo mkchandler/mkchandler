@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Disable NuGet Package Restore on a Solution"
+author: "Matt Chandler"
 date: 2014-06-11
 category: programming
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "35mm Film: Gloss Mountain"
+author: "Matt Chandler"
 date: 2018-04-21
 category: photography
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Elixir Basics: Looping and Recursion"
+author: "Matt Chandler"
 date: 2017-04-26
 category: programming
 ---

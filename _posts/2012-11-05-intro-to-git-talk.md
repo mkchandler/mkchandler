@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Intro to Git Talk"
+author: "Matt Chandler"
 date: 2012-11-05
 category: programming
 ---
